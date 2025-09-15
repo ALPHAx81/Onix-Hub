@@ -19,6 +19,7 @@ const HomePage = () => {
 
     return (
         <div className="home-page">
+
             <form onSubmit={handleFormSubmit} className="form">
                 <div className="form-group">
                     <h1>ONIX HUB </h1>
